@@ -6,6 +6,7 @@ Também coloquei alguns de IA por conta de alguns trabalhos que tenho desenvolvi
 Sinta-se livres para me mandar novos eventos e atualizações. 
 
 
+## Trabalho em desenvolvimento!!! Mais nomes de locais virão!
 
 # Conferências 
 | Evento | Site | Data envio | Data Evento | Qualis | Área |
