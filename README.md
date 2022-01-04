@@ -19,6 +19,7 @@ Sinta-se livres para me mandar novos eventos e atualizações.
 | EASE | https://conf.researchr.org/home/ease-2021 | Full papers submission, abstract: January 24th, 2022(abstract) Short papers and artifacts (4-6 pages), submission: March 21st, 2022 | 13-15 June 2022 | A3 | ES |
 | SBES | https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php | Registro do artigo (envio do resumo): 02 de maio de 2022 | 3 a 7 out | A3 | ES |
 | SBES Educação | https://cbsoft2022.facom.ufu.br/sbes-educacao.php  | Registro do artigo (envio do resumo): 16 de maio de 2022 | 3 a 7 out | A3 | EDU |
+| CHASE | https://conf.researchr.org/track/chase-2022/chase-2022-research-papers  | Abstract submission: 13 January, 2022 | May 21-22, 2022 | A4 | SE |
 | ICSE - SEET | https://conf.researchr.org/track/icse-2022/icse-2022-seet | Fri 22 Oct 2021  | --- | --- | --- |
 | CBSIE | http://cibse2022.frc.utn.edu.ar/ | Feb 7, 2022 (abstract) | Jun 13, 2022 - Jun 17, 2022 | --- | ES |
 | BRACIS | http://c4ai.inova.usp.br/bracis/ | --- | Nov/Dez | A4 | IA |
