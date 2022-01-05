@@ -23,6 +23,10 @@ Sinta-se livres para me mandar novos eventos e atualizações.
 | CHASE | https://conf.researchr.org/track/chase-2022/chase-2022-research-papers  | Abstract submission: 13 January, 2022 | May 21-22, 2022 | A4 | SE |
 | ICSE - SEET | https://conf.researchr.org/track/icse-2022/icse-2022-seet | Fri 22 Oct 2021  | --- | --- | --- |
 | CBSIE | http://cibse2022.frc.utn.edu.ar/ | Feb 7, 2022 (abstract) | Jun 13, 2022 - Jun 17, 2022 | --- | ES |
+| CSEE&T| https://hicss.hawaii.edu/tracks-55/software-engineering-education/ | --- | --- | A4| EDU |
+| ISECON | https://www.isecon.org/isecon_cfp.php | February 7, 2022 |  March 2, 2022 | B4 | EDU |
+| ICEE | https://waset.org/engineering-education-conference | December 23, 2021 | January 14-15, 2022 | Sem Qualis | EDU |
+| ICEEI | http://www.iceei.net/ | Submission Deadline: July 25, 2022 | December 16-18, 2022 | Sem Quali | EDU |
 | BRACIS | http://c4ai.inova.usp.br/bracis/ | --- | Nov/Dez | A4 | IA |
 | KDMILE | https://eic.cefet-rj.br/kdmile2021/ | --- | Out | B3 | IA |
 | ENIAC | http://c4ai.inova.usp.br/bracis/eniac.htm | --- |  Nov/Dez | A4 | IA |
@@ -36,6 +40,13 @@ Sinta-se livres para me mandar novos eventos e atualizações.
 | Renote | https://seer.ufrgs.br/renote | A4 | EDU |
 | AJE | https://www.journals.uchicago.edu/toc/aje/current  | Sem Qualis | EDU |
 | Isys | http://www.seer.unirio.br/index.php/isys | B2 | SI - ES  |
+| TOCE | https://dl.acm.org/journal/toce | Sem Qualis | EDU  |
+| IST | https://www.journals.elsevier.com/information-and-software-technology | A1 | ES |
+| JSS | https://www.journals.elsevier.com/journal-of-systaems-and-software | A1 | ES |
+| IEEE Software | https://www.computer.org/csdl/magazine/so | A2 | ES |
+| Empirical Software Engineering | https://www.springer.com/journal/10664 | A2 | ES |
+| IEEE Transactions on Software Engineering | https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32 | A2 | ES |
+
 
 
 # Eventos da comunidade
