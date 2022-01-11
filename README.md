@@ -22,6 +22,7 @@ Sinta-se livres para me mandar novos eventos e atualizações.
 | SBES Educação | https://cbsoft2022.facom.ufu.br/sbes-educacao.php  | Registro do artigo (envio do resumo): 16 de maio de 2022 | 3 a 7 out | A3 | EDU |
 | CHASE | https://conf.researchr.org/track/chase-2022/chase-2022-research-papers  | Abstract submission: 13 January, 2022 | May 21-22, 2022 | A4 | SE |
 | ICSE - SEET | https://conf.researchr.org/track/icse-2022/icse-2022-seet | Fri 22 Oct 2021  | --- | --- | --- |
+| WASHES  | https://sites.google.com/view/washes2022 | Deadline: 15 de março de 2022 | 31 de Julho a 5 de agosto de 2022 | B4 | SE | 
 | CBSIE | http://cibse2022.frc.utn.edu.ar/ | Feb 7, 2022 (abstract) | Jun 13, 2022 - Jun 17, 2022 | --- | ES |
 | CSEE&T| https://hicss.hawaii.edu/tracks-55/software-engineering-education/ | --- | --- | A4| EDU |
 | ISECON | https://www.isecon.org/isecon_cfp.php | February 7, 2022 |  March 2, 2022 | B4 | EDU |
@@ -31,6 +32,7 @@ Sinta-se livres para me mandar novos eventos e atualizações.
 | KDMILE | https://eic.cefet-rj.br/kdmile2021/ | --- | Out | B3 | IA |
 | ENIAC | http://c4ai.inova.usp.br/bracis/eniac.htm | --- |  Nov/Dez | A4 | IA |
 | AAAI | https://aaai.org/Conferences/AAAI-22/ | --- | Fev | A1 | IA |
+
 
 
 # Revistas 
